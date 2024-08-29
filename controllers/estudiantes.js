@@ -282,4 +282,4 @@ class Estudiante {
 }
 
 const estudiantesC = new Estudiante();
-module.exports = estudiantesC;
+module.exports = estudiantesC; 
